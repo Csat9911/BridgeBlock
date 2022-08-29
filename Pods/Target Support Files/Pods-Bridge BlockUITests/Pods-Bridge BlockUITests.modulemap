@@ -1,0 +1,6 @@
+framework module Pods_Bridge_BlockUITests {
+  umbrella header "Pods-Bridge BlockUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
